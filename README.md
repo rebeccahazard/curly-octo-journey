@@ -1,1 +1,1 @@
-# curly-octo-journeyJust an example repo
+# curly-octo-journey
